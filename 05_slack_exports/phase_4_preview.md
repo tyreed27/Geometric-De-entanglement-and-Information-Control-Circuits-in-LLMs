@@ -21,6 +21,15 @@
 **Google Doc #2:** https://docs.google.com/document/d/18485IOiDVvfDY8qezUAd-P9HSsXYiScZ6NZR17NDLJE/edit  
 **documentId:** `18485IOiDVvfDY8qezUAd-P9HSsXYiScZ6NZR17NDLJE`
 
+## Git (GeomDeent repo)
+
+| Branch | Commit | Author | Notes |
+|--------|--------|--------|-------|
+| `main` | `733cfed` | Tyler `<treed.lab30@gmail.com>` | `phase_4_preview`, `06_decisions/...zoom1.md`, `cp_current` |
+| `RA1` | `187e1bf` | Alex `<researchassistant111@outlook.com>` | `research-log/phase4_zoom1.md` (post-merge) |
+| `RA2` | `4ab4e52` | Brent `<researchassistant222@outlook.com>` | `phase4_zoom1` content fix after merge |
+| `RA3` | `b135b77` | Chris `<researchassistant333@outlook.com>` | `research-log/phase4_zoom1.md` |
+
 ### Thread index
 
 | `ts` | Who | Summary |
