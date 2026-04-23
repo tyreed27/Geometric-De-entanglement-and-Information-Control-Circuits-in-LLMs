@@ -1,34 +1,45 @@
 # Current Context Pack — GeomDeent
 
-**Active phase:** P5 — Pilot + Hiccup #1 (**complete**). Next: P6 Zoom 2 + methods v2 + Hiccup #2 (await PI go-ahead).
+**Active phase:** P6 — Zoom 2 + methods v2 + Hiccup #2 (**complete**). Next: P7 paper draft v0.1 (await PI go-ahead).
 
 1. **Goal**  
-   Same as `00_project_scope.md`: geometry-aware directions + circuit interventions → less leakage / covert capacity without wrecking LM performance.
+   Same as `00_project_scope.md`.
 
 2. **Primitives**  
-   A geometry · B circuits/leakage · C covert capacity (notation: report collateral across all three).
+   A geometry · B circuits/leakage · C covert capacity.
 
 3. **Slack thread refs**  
    - Phase 2 parent: `1776917326.872159` (lit review / scoping).  
    - Phase 3 parent: `1776917863.943389` (methods v1 + parking lot).  
    - Phase 4 parent: `1776920017.706679` (Zoom 1).  
-   - **Phase 5 parent:** `1776921561.477649` (pilot + Hiccup #1).
+   - Phase 5 parent: `1776921561.477649` (pilot + Hiccup #1).  
+   - **Phase 6 parent:** see `05_slack_exports/phase_6_preview.md` (filled after post).
 
-4. **Phase 4 decisions (still binding until v2 supersedes)**  
+4. **Phase 4 decisions (measurement spine)**  
    - Leakage table: KL primary; Δentropy + repeat; recover/judge tertiary.  
    - Smear check L vs L+2; pilot-derived thresholds.  
    - Toy model: Qwen2.5-0.5B-Instruct default; TinyLlama fallback; frozen templates.
 
-5. **Phase 5 / Hiccup #1 (NEW)**  
-   - **Root cause (consensus):** v1 contrastive **template/format leakage** — orthogonalization ran on a basis that still encodes shared shell features.  
-   - **Methods v1 extraction:** **parked** for claims; v2 must randomize / counterbalance contrast surfaces before cosine / patching narratives.  
-   - **Google Doc #1:** appended **Known failure modes** section (2026-04-23).  
-   - **Git:** pilot illustrative stubs on RA branches (`3c93e13` / `01c8d03` / `2b0441a` at time of export — pull branches for tip).
-
-6. **Docs**  
-   - Scope / reading + failure modes: https://docs.google.com/document/d/13Z8jQFYvdwwgSn9Rn_NeR8dxgQVrqz2iAORir_ONjyg/edit  
-   - Zoom 1 notes: https://docs.google.com/document/d/18485IOiDVvfDY8qezUAd-P9HSsXYiScZ6NZR17NDLJE/edit  
+5. **Phase 5 / Hiccup #1**  
+   - v1 extraction **parked** for claims (template/format leakage).  
+   - Doc #1: **Known failure modes** (2026-04-23).  
    - Local: `06_decisions/pilot_hiccup1_summary.md`.
 
-7. **Next**  
-   Phase 6 — Zoom 2, methods v2, scaffolded experiments, Hiccup #2 (judge on paraphrases), Threats to Validity. **Do not start until PI says go.**
+6. **Methods v2 + Phase 6**  
+   - **v2 (active):** `03_methods/methods_v2.md` on RA branches — template-randomized envelopes + template ablation gate row; Brent **linkage probe** `S(d)`; Chris **counting sub-test** + Tier-2 judge caveats.  
+   - **Experiments (stub):** `experiments/p6_illustrative_table.md`.
+
+7. **Hiccup #2**  
+   LLM-judge **paraphrase collapse** in stubs → Tier-2 **non-load-bearing**; **Threats to validity** appended to Doc #1. Local: `06_decisions/hiccup2_summary.md`.
+
+8. **Docs**  
+   - Scope / reading + failure modes + threats: https://docs.google.com/document/d/13Z8jQFYvdwwgSn9Rn_NeR8dxgQVrqz2iAORir_ONjyg/edit  
+   - Zoom 1: https://docs.google.com/document/d/18485IOiDVvfDY8qezUAd-P9HSsXYiScZ6NZR17NDLJE/edit  
+   - Zoom 2: https://docs.google.com/document/d/1MvyU2O6TGDH_rCAVBxXoQpwA8Im98goVN2-wkBtq3U4/edit
+
+9. **Git (export SHAs)**  
+   - `RA1` `ced8d79`, `RA2` `2551a73`, `RA3` `c875658` — pull branches for tip.  
+   - `main` — archive previews + this file; `git pull origin/main`.
+
+10. **Next**  
+    Phase 7 — paper draft v0.1 in Google Docs + Slack critique loop. **Do not start until PI says go.**
