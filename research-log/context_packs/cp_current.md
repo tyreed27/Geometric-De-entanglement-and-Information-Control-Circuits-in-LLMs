@@ -24,7 +24,7 @@
    - Local mirror: `06_decisions/meeting_notes_2026-04-22_zoom1.md`.
 
 6. **Git (post–Phase 4)**  
-   - `main` @ `a3a76d8`: `05_slack_exports/phase_4_preview.md` (includes Slack index + SHA table), `06_decisions/meeting_notes_2026-04-22_zoom1.md`, this `cp_current.md`.  
+   - `main` @ `69d552b`: `05_slack_exports/phase_4_preview.md` (includes Slack index + SHA table), `06_decisions/meeting_notes_2026-04-22_zoom1.md`, this `cp_current.md`.  
    - `RA1` `187e1bf`, `RA2` `4ab4e52`, `RA3` `b135b77`: `research-log/phase4_zoom1.md`.
 
 7. **Next**  

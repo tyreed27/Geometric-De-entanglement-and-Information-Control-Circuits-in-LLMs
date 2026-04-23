@@ -25,7 +25,7 @@
 
 | Branch | Commit | Author | Notes |
 |--------|--------|--------|-------|
-| `main` | `a3a76d8` | Tyler `<treed.lab30@gmail.com>` | `phase_4_preview` (+SHA table), `06_decisions/...zoom1.md`, `cp_current` (tip after P4) |
+| `main` | `69d552b` | Tyler `<treed.lab30@gmail.com>` | `phase_4_preview` (+SHA table), `06_decisions/...zoom1.md`, `cp_current` (P4 tip) |
 | `RA1` | `187e1bf` | Alex `<researchassistant111@outlook.com>` | `research-log/phase4_zoom1.md` (post-merge) |
 | `RA2` | `4ab4e52` | Brent `<researchassistant222@outlook.com>` | `phase4_zoom1` content fix after merge |
 | `RA3` | `b135b77` | Chris `<researchassistant333@outlook.com>` | `research-log/phase4_zoom1.md` |
