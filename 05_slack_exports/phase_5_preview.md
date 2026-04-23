@@ -18,8 +18,12 @@
 | `RA1` | `3c93e13` | Alex `<researchassistant111@outlook.com>` | `ra1_contrastive_stub.py` — `illustrative_pilot_row()` |
 | `RA2` | `01c8d03` | Brent `<researchassistant222@outlook.com>` | `ra2_circuits_stub.py` — `illustrative_leakage_row_stub()` |
 | `RA3` | `2b0441a` | Chris `<researchassistant333@outlook.com>` | `ra3_steg_stub.py` — tertiary vector slots |
-| `main` | `git pull` for tip | Tyler `<treed.lab30@gmail.com>` | this preview + `cp_current` |
+| `main` | `git pull` for tip | Tyler `<treed.lab30@gmail.com>` | `phase_5_preview`, `pilot_hiccup1_summary`, `cp_current` |
 
 ## Local mirror
 
 - `06_decisions/pilot_hiccup1_summary.md` — short narrative backup (same channel of truth as Doc #1 appendix).
+
+## Slack thread volume
+
+- Parent + **19** thread replies on `1776921561.477649` (pilot rows → Hiccup #1 template leakage → doc append → drawing board).
